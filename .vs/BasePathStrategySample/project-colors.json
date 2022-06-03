@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "172ade7d-5408-4b4e-9e10-218c90932c5f": {
+      "ProjectGuid": "172ade7d-5408-4b4e-9e10-218c90932c5f",
+      "DisplayName": "MultitenantSample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

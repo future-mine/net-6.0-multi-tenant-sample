@@ -1,0 +1,254 @@
+﻿++Solution 'MultitenantSample' ‎(1 of 1 project)
+++MultitenantSample
+i:{00000000-0000-0000-0000-000000000000}:MultitenantSample
+i:{ac5e8f12-45b6-4568-8fe1-b1e88232d60a}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\multitenantsample.csproj
+++Connected Services 
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:>342
+++Dependencies
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:>341
+i:{ac5e8f12-45b6-4568-8fe1-b1e88232d60a}:>429
+++Properties
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\properties\
+++wwwroot
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\
+++Pages
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\pages\
+++Shared
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\pages\shared\
+++_Layout.cshtml
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\pages\shared\_layout.cshtml
+++_Layout.cshtml.css
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\pages\shared\_layout.cshtml.css
+++_ValidationScriptsPartial.cshtml
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\pages\shared\_validationscriptspartial.cshtml
+++_ViewImports.cshtml
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\pages\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\pages\_viewstart.cshtml
+++Error.cshtml
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\pages\error.cshtml
+++Error.cshtml.cs
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\pages\error.cshtml.cs
+++Index.cshtml
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\pages\index.cshtml
+++Index.cshtml.cs
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\pages\index.cshtml.cs
+++appsettings.Development.json
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\appsettings.development.json
+++appsettings.json
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\appsettings.json
+i:{ac5e8f12-45b6-4568-8fe1-b1e88232d60a}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\multitenantsampletests\appsettings.json
+++finbuckle-128x128.png
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\finbuckle-128x128.png
+i:{ac5e8f12-45b6-4568-8fe1-b1e88232d60a}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\finbuckle-128x128.png
+++Program.cs
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\program.cs
+++No service dependencies discovered
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:>343
+++Analyzers
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:analyzers
+i:{ac5e8f12-45b6-4568-8fe1-b1e88232d60a}:analyzers
+++Frameworks
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:frameworks
+i:{ac5e8f12-45b6-4568-8fe1-b1e88232d60a}:frameworks
+++Packages
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:packages
+i:{ac5e8f12-45b6-4568-8fe1-b1e88232d60a}:packages
+++launchSettings.json
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\properties\launchsettings.json
+++css
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\css\
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\js\
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\
+++favicon.ico
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\favicon.ico
+++Microsoft.AspNetCore.Analyzers
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{ac5e8f12-45b6-4568-8fe1-b1e88232d60a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{ac5e8f12-45b6-4568-8fe1-b1e88232d60a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{ac5e8f12-45b6-4568-8fe1-b1e88232d60a}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{ac5e8f12-45b6-4568-8fe1-b1e88232d60a}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{ac5e8f12-45b6-4568-8fe1-b1e88232d60a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{ac5e8f12-45b6-4568-8fe1-b1e88232d60a}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\microsoft.netcore.app
+i:{ac5e8f12-45b6-4568-8fe1-b1e88232d60a}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\multitenantsampletests\microsoft.netcore.app
+++Finbuckle.MultiTenant.AspNetCore (6.6.1)
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:>354
+++site.css
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\css\site.css
+++site.js
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\js\site.js
+++bootstrap
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\
+++jquery
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\jquery\
+++jquery-validation
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\jquery-validation-unobtrusive\
+++dist
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\jquery\dist\
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\jquery\license.txt
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++jquery.js
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\jquery\dist\jquery.js
+++jquery.min.js
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\jquery\dist\jquery.min.js
+++jquery.min.map
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\jquery\dist\jquery.min.map
+++additional-methods.js
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++additional-methods.min.js
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.js
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.min.js
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap.css.map
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.min.css.map
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap.rtl.css.map
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap.rtl.min.css.map
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.css
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-grid.css.map
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.min.css.map
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-grid.rtl.css.map
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-grid.rtl.min.css.map
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.css
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-reboot.css.map
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.min.css.map
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-reboot.rtl.css.map
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-reboot.rtl.min.css.map
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.css
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap-utilities.css.map
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.min.css.map
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap-utilities.rtl.css.map
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap-utilities.rtl.min.css.map
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.js
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.bundle.js.map
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.bundle.min.js.map
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.js
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.esm.js.map
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.esm.min.js.map
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++bootstrap.js
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++bootstrap.js.map
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++bootstrap.min.js.map
+i:{172ade7d-5408-4b4e-9e10-218c90932c5f}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\basepathstrategysample\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++Solution 'MultitenantSample' ‎(2 of 2 projects)
+i:{00000000-0000-0000-0000-000000000000}:MultitenantSample.sln
+++MultitenantSampleTests
+i:{00000000-0000-0000-0000-000000000000}:MultitenantSampleTests
+++UnitTest1.cs
+i:{ac5e8f12-45b6-4568-8fe1-b1e88232d60a}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\multitenantsampletests\unittest1.cs
+++coverlet.collector (3.1.0)
+i:{ac5e8f12-45b6-4568-8fe1-b1e88232d60a}:>438
+++Microsoft.NET.Test.Sdk (16.11.0)
+i:{ac5e8f12-45b6-4568-8fe1-b1e88232d60a}:>437
+++MSTest.TestAdapter (2.2.7)
+i:{ac5e8f12-45b6-4568-8fe1-b1e88232d60a}:>439
+++MSTest.TestFramework (2.2.7)
+i:{ac5e8f12-45b6-4568-8fe1-b1e88232d60a}:>436
+++Projects
+i:{ac5e8f12-45b6-4568-8fe1-b1e88232d60a}:projects
+++UnitTest1 - Copy.cs
+++CustomApp.cs
+++Microsoft.AspNetCore.Mvc.Testing (6.0.5)
+i:{ac5e8f12-45b6-4568-8fe1-b1e88232d60a}:>772
+++TestApp.cs
+i:{ac5e8f12-45b6-4568-8fe1-b1e88232d60a}:e:\work\futurework\kiran rathni\finbuckle.multitenant\samples\net6.0\multitenantsampletests\testapp.cs
